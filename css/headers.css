@@ -1,0 +1,21 @@
+.navbar{
+	background: linear-gradient(white, #D6D6D6);
+	background: -webkit-linear-gradient(white, #D6D6D6);
+	font-family: "Times New Roman", Georgia, Serif;
+	font-size: 15px;
+}
+.tablehead{
+	background: #acacac;
+	margin:10px;
+	padding: 30px;
+	color: white;
+	font-family:Helvetica Neue, Helvetica, Arial, sans-serif;
+	font-weight:100;
+	font-size: 15px;
+}
+.backgray{
+	background-color: #979797;
+	color: #ffffff;
+	padding: 10px 10px;
+	font-size: 18px;
+}
